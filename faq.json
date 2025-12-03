@@ -1,0 +1,192 @@
+[
+    {
+        "question": "Who is developer of this chat bot?",
+        "keywords": ["developer", "creator", "maker", "who", "bot", "chatbot"],
+        "answer": "This bot is developed by Pradyumna Pawar. He is a BCA student. You can contact him on instagram @pradyumna.49|"
+    },
+    {
+        "question": "What are the fees?",
+        "keywords": ["fees", "cost"],
+        "answer": "BCA fees are: ₹22,000 PA. BBA fees are: ₹19,000 PA. MBA fees are: ₹24,000 PA."
+    },
+    {
+        "question": "What are the BCA fees?",
+        "keywords": ["bca", "fees", "cost", "tuition"],
+        "answer": "BCA (Bachelor of Computer Applications) fees are ₹22,000 annually. This is a 3-year program that focuses on computer science and programming."
+    },
+    {
+        "question": "What are the BBA fees?",
+        "keywords": ["bba", "fees", "cost", "tuition", "business"],
+        "answer": "BBA (Bachelor of Business Administration) fees are ₹19,000 annually. This 3-year program covers management, finance, and business studies."
+    },
+    {
+        "question": "What are the MBA fees?",
+        "keywords": ["mba", "fees", "cost", "tuition", "master"],
+        "answer": "MBA (Master of Business Administration) fees are ₹24,000 annually. This 2-year postgraduate program specializes in advanced management and business strategy."
+    },
+    {
+        "question": "What are the timing?",
+        "keywords": ["timing", "time", "hours", "schedule"],
+        "answer": "BCA: 10:00AM to 5:00PM. BBA: 9:00AM to 3:00PM. MBA: 6:00AM to 11:00AM."
+    },
+    {
+        "question": "What is the BCA timing?",
+        "keywords": ["bca", "timing", "time", "hours", "schedule"],
+        "answer": "BCA classes are held from 10:00 AM to 5:00 PM with lunch breaks. The timing is flexible to accommodate working professionals."
+    },
+    {
+        "question": "What is the BBA timing?",
+        "keywords": ["bba", "timing", "time", "hours", "schedule"],
+        "answer": "BBA classes are held from 9:00 AM to 3:00 PM. Some evening batches are also available."
+    },
+    {
+        "question": "What is the MBA timing?",
+        "keywords": ["mba", "timing", "time", "hours", "schedule"],
+        "answer": "MBA classes are held from 6:00 PM to 9:00 PM on weekdays and optional weekend sessions."
+    },
+    {
+        "question": "When does admission start?",
+        "keywords": ["admission", "start", "open", "apply", "registration"],
+        "answer": "Admissions typically start from June every year. Early bird registrations often open in May. Apply online or visit the campus for more details."
+    },
+    {
+        "question": "What documents are required for admission?",
+        "keywords": ["documents", "admission", "required", "papers", "application"],
+        "answer": "Required documents include: 10th & 12th marksheets, graduation degree (for postgraduate), valid ID proof, passport-size photos (4), and completed application form."
+    },
+    {
+        "question": "What is the college location?",
+        "keywords": ["location", "address", "campus", "where"],
+        "answer": "Prin. K.P. MIM is located in 156-B, Railway lines, Dufferin Chowk, Solapur, Maharashtra-413001"
+    },
+    {
+        "question": "What are the eligibility criteria?",
+        "keywords": ["eligibility", "qualify", "requirement", "criteria"],
+        "answer": "BCA/BBA eligibility: 12th pass. Minimum 50% marks required. Entrance exam or merit-based selection."
+    },
+    {
+        "question": "What are the eligibility criteria for BCA?",
+        "keywords": ["eligibility", "bca", "qualify", "requirement", "criteria"],
+        "answer": "BCA eligibility: 12th pass with Mathematics/Science. Minimum 50% marks required. Entrance exam or merit-based selection."
+    },
+    {
+        "question": "What are the eligibility criteria for BBA?",
+        "keywords": ["eligibility", "bba", "qualify", "requirement", "criteria"],
+        "answer": "BBA eligibility: 12th pass from any stream. Minimum 45% marks required. Merit-based admission."
+    },
+    {
+        "question": "What are the eligibility criteria for MBA?",
+        "keywords": ["eligibility", "mba", "qualify", "requirement", "criteria"],
+        "answer": "MBA eligibility: Bachelor's degree with minimum 50% marks. GMAT/CAT score (optional but recommended). 2-3 years work experience preferred."
+    },
+    {
+        "question": "Does the college provide hostel facilities?",
+        "keywords": ["hostel", "accommodation", "boarding", "stay", "facility"],
+        "answer": "No! sorry college don't provide hostel facilities."
+    },
+    {
+        "question": "What are the placement opportunities?",
+        "keywords": ["placement", "job", "career", "recruitment", "employment"],
+        "answer": "We have strong placement records with partnerships from top IT companies, corporations, and startups. 90%+ placement rate for eligible candidates."
+    },
+    {
+        "question": "What is the scholarship policy?",
+        "keywords": ["scholarship", "aid", "financial", "grant", "fee", "concession"],
+        "answer": "We offer merit-based scholarships up to 50% fee waiver for top scorers. Need-based assistance available. Contact the finance office for details."
+    },
+    {
+        "question": "How can I contact the college?",
+        "keywords": ["contact", "phone", "email", "reach", "communication"],
+        "answer": "Contact the admissions office at: Email: admissions@kpmim.edu | Phone: +91-02172317964 | Or visit the campus during office hours (9 AM - 5 PM)."
+    },
+    {
+        "question": "What are the available specializations in BCA?",
+        "keywords": ["specialization", "bca", "major", "focus", "stream"],
+        "answer": "BCA specializations: Web Development, Mobile App Development, Software Development Database Management."
+    },
+    {
+        "question": "Does the college have a computer lab?",
+        "keywords": ["lab", "computer", "facility", "equipment", "infrastructure"],
+        "answer": "Yes, we have computer labs with latest software, high-speed internet, and 24/7 access for students."
+    },
+    {
+        "question": "Are there any clubs or societies?",
+        "keywords": ["club", "society", "activity", "student", "extracurricular"],
+        "answer": "Yes! We have various clubs including coding club, debate society, cultural club, sports committee, and technical workshops."
+    },
+    {
+        "question": "What is the library facility?",
+        "keywords": ["library", "books", "resource", "study"],
+        "answer": "Our library has 5000+ books, online journals, e-books, and digital resources. Open from 10 AM to 4 PM daily with free access to all students."
+    },
+    {
+        "question": "Can I get a fee payment plan?",
+        "keywords": ["payment", "installment", "plan", "fee", "monthly"],
+        "answer": "Contact the finance office in our college."
+    },
+    {
+        "question": "What is the faculty qualification?",
+        "keywords": ["faculty", "teacher", "professor", "qualification", "staff"],
+        "answer": "All faculty members hold Master's degrees from reputed universities with 5+ years of industry/academic experience. Continuous professional development encouraged."
+    },
+    {
+        "question": "Is there an online application process?",
+        "keywords": ["online", "application", "form", "digital", "web"],
+        "answer": "Yes, apply online through our website. The process is simple: fill the form, upload documents, pay application fee, and submit. You'll receive confirmation via email."
+    },
+    {
+        "question": "What is the course curriculum?",
+        "keywords": ["curriculum", "course", "subjects", "syllabus", "topics"],
+        "answer": "Our curriculum is designed as per industry standards and updated regularly. It includes practical projects, internships, and real-world case studies."
+    },
+    {
+        "question": "Do you offer internship programs?",
+        "keywords": ["internship", "intern", "training", "practical", "experience"],
+        "answer": "Yes, mandatory internships are part of the curriculum. We partner with leading companies for summer and semester-long internship opportunities."
+    },
+    {
+        "question": "What is the cut-off for admission?",
+        "keywords": ["cutoff", "marks", "score", "admission", "merit"],
+        "answer": "Cut-offs vary yearly based on applications. Generally, BCA: 60%+, BBA: 55%+, MBA: 50%+. Top scorers get priority and scholarship consideration."
+    },
+    {
+        "question": "Are there evening classes available?",
+        "keywords": ["evening", "night", "class", "part-time", "working"],
+        "answer": "No! there are no evening classes."
+    },
+    {
+        "question": "How do I prepare for admission?",
+        "keywords": ["prepare", "entrance", "exam", "preparation", "study"],
+        "answer": "Focus on your 12th/graduation subjects. Our college also conducts entrance exams. Join coaching centers or use online resources for entrance test preparation."
+    },
+    {
+        "question": "What is the student-to-faculty ratio?",
+        "keywords": ["ratio", "student", "faculty", "class", "size"],
+        "answer": "We maintain a 1:20 student-to-faculty ratio ensuring personalized attention and quality education for every student."
+    },
+    {
+        "question": "Are there sports facilities?",
+        "keywords": ["sports", "gym", "fitness", "physical", "activity"],
+        "answer": "No! threr are no sports facilities."
+    },
+    {
+        "question": "What are the career prospects after BCA?",
+        "keywords": ["career", "bca", "job", "prospect", "future", "after"],
+        "answer": "BCA graduates work as Software Developers, Web Developers, Data Analysts, System Administrators, and IT Consultants with average salaries starting at ₹3-5 LPA."
+    },
+    {
+        "question": "How long is the BCA program?",
+        "keywords": ["duration", "bca", "year", "length", "complete"],
+        "answer": "BCA is a 3-year full-time program with 6 semesters. Each semester is 6 months long."
+    },
+    {
+        "question": "Is there industrial training?",
+        "keywords": ["industrial", "training", "workshop", "skill", "hands-on"],
+        "answer": "Yes, industrial training and workshops are conducted regularly by industry experts and leading tech companies."
+    },
+    {
+        "question": "Can I pursue higher studies after graduation?",
+        "keywords": ["higher", "studies", "masters", "phd", "postgraduate"],
+        "answer": "Absolutely! Our graduates can pursue MBA."
+    }
+] 

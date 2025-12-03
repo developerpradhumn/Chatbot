@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KPMIM Chat Bot - Your College Assistant</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <!-- Background -->
+    <div class="background-pattern"></div>
+
+    <!-- Floating Chat Button -->
+    <button class="floating-btn" id="floatingBtn" title="Open Chat" aria-label="Open chat assistant">
+        <span class="chat-icon">💬</span>
+    </button>
+
+    <!-- Chat Container -->
+    <div class="container" id="chatContainer" aria-hidden="true">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-content">
+                <p class="header-title"><img class="logo" src="KPMIM_Logo.png" alt="KPMIM"> KPMIM Chat Bot (Under Testing)</p>
+                <p class="header-subtitle">Developed by BCA student <strong>Pradyumna Pawar</strong></p>
+            </div>
+            <button class="close-btn" id="closeBtn" title="Close Chat" aria-label="Close chat">✕</button>
+        </div>
+
+        <!-- Chat Window -->
+        <div class="chatWindow" role="log" aria-live="polite" aria-label="Chat messages">
+            <p class="bot-msg">
+                <span class="bot-icon">🤖</span>
+                <span>Hello! 👋 I'm your KPMIM assistant. Ask me about admissions, courses, fees, facilities,
+                    placements, and more. How can I help you today?</span>
+            </p>
+        </div>
+
+        <!-- Quick Suggestions -->
+        <div class="quick-suggestions" id="quickSuggestions">
+            <button class="quick-btn" data-question="What are the fees?">💰 Fees</button>
+            <button class="quick-btn" data-question="What are the eligibility criteria?">📋 Eligibility</button>
+            <button class="quick-btn" data-question="How can I contact the college?">📞 Contact</button>
+            <button class="quick-btn" data-question="What is the placement opportunities?">🎯 Placements</button>
+        </div>
+
+        <!-- Input Section -->
+        <div class="input-section">
+            <div id="suggestions" class="suggestion-box"></div>
+            <div class="input-wrapper">
+                <input type="text" id="Questions" placeholder="Type your question here..." autocomplete="off"
+                    aria-label="Type your question">
+                <button class="send" id="sendBtn" title="Send message" aria-label="Send message">
+                    <span>➤</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html> 
